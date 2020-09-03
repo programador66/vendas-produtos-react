@@ -1,0 +1,27 @@
+.card img {
+  height: 300px;
+}
+
+.card-title {
+  color: black;
+  font-size: 1.1rem;
+}
+
+.card-title:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.footer-card-body {
+  display: flex;
+  justify-items: center;
+  justify-content: space-between;
+}
+
+.footer-card-body strong {
+  align-self: center;
+}
+
+#btn-remover {
+  background-color: tomato;
+}

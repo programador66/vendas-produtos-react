@@ -1,0 +1,23 @@
+.container-prod {
+  margin-top: 5%;
+  margin-left: 4%;
+  display: flex;
+  justify-content: flex-start;
+}
+section {
+  width: 500px;
+  margin-left: 3%;
+}
+section h2 {
+  color: black;
+  font-size: 1.1rem;
+}
+
+section button {
+  margin-left: 2%;
+}
+
+.container-desc {
+  margin-top: 2%;
+  margin-left: 5%;
+}
